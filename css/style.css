@@ -92,13 +92,15 @@ nav.scrolled {
 }
 
 .logo {
-  font-family: var(--serif);
-  font-size: 22px;
-  font-weight: 600;
-  letter-spacing: .12em;
   text-decoration: none;
-  color: var(--navy);
   position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 34px;
+  width: auto;
 }
 
 .nav-links {
@@ -915,6 +917,15 @@ footer {
   font-family: var(--serif);
   font-size: 18px;
   letter-spacing: .1em;
+  display: inline-flex;
+  align-items: center;
+}
+
+.ft-logo-img {
+  height: 26px;
+  width: auto;
+  filter: invert(1);
+  opacity: .85;
 }
 
 .ft-links {
