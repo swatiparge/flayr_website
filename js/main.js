@@ -43,8 +43,6 @@ mobileMenu.querySelectorAll('a').forEach(a => a.addEventListener('click', () => 
 /* ---------- Hero intro ---------- */
 const heroTl = gsap.timeline({ delay: .2 });
 heroTl
-  .to('.hero-el.eyebrow', { opacity: 1, y: 0, duration: .7, ease: 'power3.out' }, 0)
-  .from('.hero-el.eyebrow', { opacity: 0, y: 16 }, 0)
   .to('.hero h1 .line span', {
     y: '0%', duration: 1, ease: 'power4.out', stagger: .12
   }, .15)
