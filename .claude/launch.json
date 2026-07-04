@@ -2,11 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "static-site",
+      "name": "flayr-preview",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["--yes", "serve", "."],
-      "port": 3000,
-      "autoPort": true
+      "runtimeArgs": ["serve", "-p", "3000", "."],
+      "port": 3000
     }
   ]
 }
