@@ -10,12 +10,12 @@
 - Occasions: weddings (haldi, mehendi, sangeet, reception), festivals (Diwali, Navratri, Eid, Holi), office, interviews, date nights, parties, trips, everyday
 - Features: AI outfits within your budget, weather-aware styling, AI virtual try-on, closet with automatic tagging, Discover community feed, festival and event reminders, looks for partner and kids, 1-on-1 stylist video sessions
 - Shopping: every item links to Indian fashion stores
-- Privacy: no ads, no data sale; try-on photos auto-deleted after 30 days; account deletion in app or at https://flayyr.in/delete-account
+- Privacy: no ads, no data sale; try-on photos auto-deleted after 30 days; account deletion in app or at https://www.flayyr.in/delete-account
 - Contact: info@flayyr.in
 
 ## Pages
-- [Home and FAQ](https://flayyr.in/): what Flayr does, how it works, frequently asked questions
-- [Contact](https://flayyr.in/contact): support, stylist and brand partnerships, grievance officer
-- [Privacy Policy](https://flayyr.in/privacy): data collected, AI processing, service providers, user rights
-- [Terms of Service](https://flayyr.in/terms): credits, stylist bookings and refunds, content rules
-- [Delete your account](https://flayyr.in/delete-account): how to delete your Flayr account and data
+- [Home and FAQ](https://www.flayyr.in/): what Flayr does, how it works, frequently asked questions
+- [Contact](https://www.flayyr.in/contact): support, stylist and brand partnerships, grievance officer
+- [Privacy Policy](https://www.flayyr.in/privacy): data collected, AI processing, service providers, user rights
+- [Terms of Service](https://www.flayyr.in/terms): credits, stylist bookings and refunds, content rules
+- [Delete your account](https://www.flayyr.in/delete-account): how to delete your Flayr account and data

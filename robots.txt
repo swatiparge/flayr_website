@@ -1,4 +1,4 @@
-# Flayr: https://flayyr.in
+# Flayr: https://www.flayyr.in
 User-agent: *
 Allow: /
 
@@ -27,4 +27,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://flayyr.in/sitemap.xml
+Sitemap: https://www.flayyr.in/sitemap.xml
