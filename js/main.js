@@ -158,19 +158,6 @@ document.querySelectorAll('.faq-item').forEach(item => {
   });
 });
 
-/* ---------- Waitlist form ---------- */
-const form = document.getElementById('waitlistForm');
-const ctaMsg = document.getElementById('ctaMsg');
-form.addEventListener('submit', e => {
-  e.preventDefault();
-  const btn = form.querySelector('button');
-  const original = btn.textContent;
-  btn.textContent = 'Added ✓';
-  gsap.fromTo(ctaMsg, { opacity: 0, y: 8 }, { opacity: 1, y: 0, duration: .5, ease: 'power2.out' });
-  form.querySelector('input').value = '';
-  setTimeout(() => { btn.textContent = original; }, 2600);
-});
-
 /* ---------- Smooth anchor offset ---------- */
 document.querySelectorAll('a[href^="#"]').forEach(a => {
   a.addEventListener('click', e => {

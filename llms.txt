@@ -1,0 +1,21 @@
+# Flayr
+
+> Flayr is an AI outfit stylist app for India. Tell it the occasion and your budget, and it creates a complete, ready-to-shop outfit (clothing, footwear, bags and jewellery) in seconds. Users can try looks on with AI, organise their closet and book 1-on-1 video sessions with professional stylists. Free on Google Play (Android); iPhone coming soon.
+
+## Key facts
+- App name: Flayr: AI Outfit Stylist
+- Platform: Android, on Google Play: https://play.google.com/store/apps/details?id=in.flayyr.app
+- Market: India (prices in INR)
+- Price: free to download; free outfit ideas every day and one free try-on; optional credit packs, no subscription, credits never expire
+- Occasions: weddings (haldi, mehendi, sangeet, reception), festivals (Diwali, Navratri, Eid, Holi), office, interviews, date nights, parties, trips, everyday
+- Features: AI outfits within your budget, weather-aware styling, AI virtual try-on, closet with automatic tagging, Discover community feed, festival and event reminders, looks for partner and kids, 1-on-1 stylist video sessions
+- Shopping: every item links to Indian fashion stores
+- Privacy: no ads, no data sale; try-on photos auto-deleted after 30 days; account deletion in app or at https://flayyr.in/delete-account
+- Contact: info@flayyr.in
+
+## Pages
+- [Home and FAQ](https://flayyr.in/): what Flayr does, how it works, frequently asked questions
+- [Contact](https://flayyr.in/contact): support, stylist and brand partnerships, grievance officer
+- [Privacy Policy](https://flayyr.in/privacy): data collected, AI processing, service providers, user rights
+- [Terms of Service](https://flayyr.in/terms): credits, stylist bookings and refunds, content rules
+- [Delete your account](https://flayyr.in/delete-account): how to delete your Flayr account and data
